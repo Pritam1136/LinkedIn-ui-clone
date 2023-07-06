@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import "./Sidebar.css";
 import { Avatar } from "@mui/material";
@@ -15,7 +16,7 @@ function Sidebar() {
       <div className="sidebar_top">
         <img
           src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80"
-          alt="hi"
+          alt="cover image"
         />
         <Avatar className="sidebar_avatar" />
         <h2>Pritam Roy</h2>
@@ -27,7 +28,7 @@ function Sidebar() {
           <p className="sidebar_statNumber">2,543</p>
         </div>
         <div className="sidebar_stat">
-          <p>views on post</p>
+          <p>Views on post</p>
           <p className="sidebar_statNumber">1,432</p>
         </div>
       </div>

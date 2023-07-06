@@ -6,16 +6,16 @@ import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
-    <div className="app">
-      {/* Header */}
-      <Header />
-
+    <div className="a">
+      <div className="app">
+        {/* Header */}
+        <Header />
+      </div>
       {/* App body */}
+
       <div className="app_body">
-        {/* sidebar */}
         <Sidebar />
 
-        {/* feed */}
         <Feed />
 
         {/* widges */}
