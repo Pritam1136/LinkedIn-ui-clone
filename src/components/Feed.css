@@ -26,10 +26,15 @@
 }
 
 .feed_input > form > input {
-  border: none;
+  border: none !important;
   flex: 1;
   margin-left: 0;
   font-weight: 600;
+}
+
+.feed_input > form > input:focus {
+  border: none;
+  outline: none;
 }
 
 .feed_input > form > button {
