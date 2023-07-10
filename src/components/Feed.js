@@ -48,6 +48,36 @@ function Feed() {
         description="This is a test"
         message="WOW this worked"
       />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
+      <Post
+        name="Pritam Roy"
+        description="This is a test"
+        message="WOW this worked"
+      />
     </div>
   );
 }
