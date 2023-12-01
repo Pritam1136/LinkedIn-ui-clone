@@ -31,5 +31,7 @@ npm run dev
 5. Open it in browser.
 
 ```
-http://localhost:3000/)http://localhost:3000/
+http://localhost:3000/
 ```
+
+![alt text](/public/Screenshot%202023-12-01%20102917.png)
