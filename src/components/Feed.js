@@ -45,36 +45,21 @@ function Feed() {
       })}
       <Post
         name="Pritam Roy"
-        description="This is a test"
-        message="WOW this worked"
+        description="web developer"
+        message="This is my First post....."
       />
       <Post
-        name="Pritam Roy"
+        name="Ayush Ranjan"
         description="This is a test"
-        message="WOW this worked"
+        message="Hi how are you ?"
       />
       <Post
-        name="Pritam Roy"
+        name="Dhananjay Kar"
         description="This is a test"
-        message="WOW this worked"
+        message="This is my first post"
       />
       <Post
-        name="Pritam Roy"
-        description="This is a test"
-        message="WOW this worked"
-      />
-      <Post
-        name="Pritam Roy"
-        description="This is a test"
-        message="WOW this worked"
-      />
-      <Post
-        name="Pritam Roy"
-        description="This is a test"
-        message="WOW this worked"
-      />
-      <Post
-        name="Pritam Roy"
+        name="Sounak Kumar"
         description="This is a test"
         message="WOW this worked"
       />

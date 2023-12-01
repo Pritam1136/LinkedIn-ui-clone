@@ -22,9 +22,9 @@ function Widgets() {
         <Info />
       </div>
       {newsArticle("Pritam is back", "Top news")}
-      {newsArticle("Pritam is back", "Top news")}
-      {newsArticle("Pritam is back", "Top news")}
-      {newsArticle("Pritam is back", "Top news")}
+      {newsArticle("Open AI", "Top news")}
+      {newsArticle("Random news", "Top news")}
+      {newsArticle("Random news", "Top news")}
     </div>
   );
 }
